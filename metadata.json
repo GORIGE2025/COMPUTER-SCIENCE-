@@ -1,0 +1,6 @@
+{
+  "name": "Digital Electronics & Computer Organization Study Hub",
+  "description": "Comprehensive PG 1st Year exam preparation portal for Paper 1 Unit 1: Basics of Digital Electronics and Computer Organization with 70-mark exam strategy, complete model Q&A, 40 interactive MCQs with keys and explanations, syllabus notes, and AI exam tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
